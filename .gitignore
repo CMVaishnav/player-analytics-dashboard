@@ -1,1 +1,19 @@
+Ignore R history and system files
+.Rhistory
+.DS_Store
+Thumbs.db
 
+Ignore large Excel files
+.xlsx
+
+Ignore temporary/backup files
+.bak
+.tmp
+~$
+
+Ignore Jupyter/IPython checkpoints
+.ipynb_checkpoints/
+
+
+
+fix: restore .gitignore to ignore system & large files
