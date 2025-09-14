@@ -1,0 +1,131 @@
+git add README.md
+git commit -m "Update README links to new folder structure"
+git push origin m
+Excel-based dashboard analyzing **player acquisition**, **deposits**, and **promo efficiency**.  
+Shows how I handle **large raw data (117 MB)**, build **interactive reports**, and turn analysis into **clear business recommendations**.
+
+---
+
+## Full Excel (117 MB)
+
+GitHub has a 100 MB file limit, so the Excel is hosted on Google Drive:
+
+**👉 [Download the Excel Dashboard](https://docs.google.com/spreadsheets/d/1SG-RTDawKNhwa_03xXDaftHMwp4a8PVl/edit?usp=sharing&ouid=104955707086052119675&rtpof=true&sd=true)**  
+*(Anyone with the link can view.)*
+
+---
+
+## Project Contents
+
+- `deliverables/dashboard.pdf` – one-page export of the main dashboard  
+- `deliverables/executive_summary.pdf` – key insights & recommendations  
+- `assets/images/` – preview images of the core KPIs  
+  - `signups_trend.png`  
+  - `deposit_by_channel.png`  
+  - `bonus_vs_deposit.png`  
+  - `deposit_per_player.png`
+
+---
+
+## KPIs Covered
+
+1. Monthly new signups (trend analysis)  
+2. First deposit by acquisition channel  
+3. Average first bet (by gender)  
+4. Bonus cost vs deposit (by product)  
+5. Deposit per player → key profitability metric
+
+---
+
+## Key Insights (from this dataset)
+
+- **Signups** peaked early, then declined steadily.  
+- **NA & PPC** channels bring the highest deposits.  
+- **Female** players show slightly higher first-bet average.  
+- **SportsBook** promos are efficient (deposits > bonus).  
+- **eGaming** promos look inefficient (bonus > deposits).
+
+---
+
+## Recommendations
+
+- Reallocate promo budget from **eGaming → SportsBook**.  
+- Double-down on **PPC/NA** acquisition channels.  
+- Pilot **female-focused onboarding** (creative + incentives).  
+- Track KPIs weekly for faster feedback loops.
+
+---
+
+## Built With
+
+- Excel (PivotTables, Slicers, Conditional Formatting)  
+- Large-scale dataset (117 MB) cleaned & modeled in Excel  
+- Visual storytelling with charts → exported to PDFs/screenshots
+
+---
+
+## Contact
+
+**Chander Mohan** —  
+[LinkedIn](https://www.linkedin.com/in/chander-mohan-0330921aa/) • [Email](mailto:cmvaishnav948@gmail.com)
+Player Analytics Dashboard
+
+This project analyzes **player acquisition, deposits, and promo efficiency** using Excel dashboards.  
+It demonstrates handling **large raw data (117 MB Excel)**, building **interactive reports**, and delivering **business insights for growth & ROI**.
+
+Full Excel Dashboard (117 MB)
+
+Due to GitHub’s 100 MB file limit, the Excel file is hosted externally:  
+ [Download the Excel Dashboard](https://docs.google.com/spreadsheets/d/1SG-RTDawKNhwa_03xXDaftHMwp4a8PVl/edit?usp=sharing)
+
+
+Project Contents
+
+- `docs/Dashboard.pdf` → One-page export of the Excel dashboard  
+- `docs/executive_summary.pdf` → Key insights & recommendations  
+- `screenshots/` → Preview images of charts & KPIs  
+  - `signups_trend.png`  
+  - `deposit_by_channel.png`  
+  - `bonus_vs_deposit.png`  
+  - `deposit_per_player.png`  
+
+
+KPIs Covered
+
+1. Monthly New Signups (trend analysis)  
+2. First Deposit by Acquisition Channel  
+3. Average First Bet (by gender)  
+4. Bonus Cost vs Deposit (by product)  
+5. Deposit per Player – key profitability metric  
+
+Key Insights
+
+- Signups** peaked in early months, then declined steadily.  
+- NA & PPC channels bring the highest deposits.  
+- Female players show slightly higher first-bet average.  
+- SportsBook promos are efficient (deposits > bonus).  
+- eGaming promos are inefficient (bonus > deposits).  
+
+
+Recommendations
+
+- Reallocate promo budget from **eGaming → SportsBook**.  
+- Double down on **PPC/NA acquisition channels**.  
+- Pilot **female-focused onboarding** (creatives + incentives).  
+- Track KPIs weekly for faster feedback loops.  
+
+
+Built With
+
+- Excel (PivotTables, Slicers, Conditional Formatting)
+- Large-scale dataset (117 MB) handled & cleaned in Excel  
+- Visual storytelling with charts + export to PDFs/screenshots  
+
+
+Contact
+
+Created by Chander Mohan
+[LinkedIn](https://www.linkedin.com/in/chander-mohan-0330921aa/) | [Email](cmvaishnav948@gmail.com)
+
+
+
