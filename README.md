@@ -10,14 +10,15 @@ Due to GitHub’s 100 MB file limit, the Excel file is hosted externally:
 
 
 Project Contents
-- [Dashboard (PDF)](https://raw.githubusercontent.com/CMVaishnav/player-analytics-dashboard/main/docs/dashboard.pdf)
-- [Executive Summary (PDF)](https://raw.githubusercontent.com/CMVaishnav/player-analytics-dashboard/main/docs/executive_summary.pdf)
+[Dashboard (PDF)](https://github.com/CMVaishnav/player-analytics-dashboard/raw/main/docs/dashboard.pdf)
+[Executive Summary (PDF)](https://github.com/CMVaishnav/player-analytics-dashboard/raw/main/docs/executive_summary.pdf)
 
 Preview Charts
-![Signups Trend](https://raw.githubusercontent.com/CMVaishnav/player-analytics-dashboard/main/docs/screenshots/signups_trend.png)
-![Deposit by Channel](https://raw.githubusercontent.com/CMVaishnav/player-analytics-dashboard/main/docs/screenshots/deposit_by_channel.png)
-![Bonus vs Deposit](https://raw.githubusercontent.com/CMVaishnav/player-analytics-dashboard/main/docs/screenshots/bonus_vs_deposit.png)
-![Deposit per Player](https://raw.githubusercontent.com/CMVaishnav/player-analytics-dashboard/main/docs/screenshots/deposit_per_player.png)
+[Signups Trend](https://github.com/CMVaishnav/player-analytics-dashboard/blob/main/docs/screenshots/signups_trend.png?raw=1)
+[Deposit by Channel](https://github.com/CMVaishnav/player-analytics-dashboard/blob/main/docs/screenshots/deposit_by_channel.png?raw=1)
+[Bonus vs Deposit](https://github.com/CMVaishnav/player-analytics-dashboard/blob/main/docs/screenshots/bonus_vs_deposit.png?raw=1)
+[Deposit per Player](https://github.com/CMVaishnav/player-analytics-dashboard/blob/main/docs/screenshots/deposit_per_player.png?raw=1)
+
 
 KPIs Covered
 
