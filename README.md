@@ -10,14 +10,14 @@ Due to GitHub’s 100 MB file limit, the Excel file is hosted externally:
 
 
 Project Contents
+- [Dashboard (PDF)](docs/dashboard.pdf)
+- [Executive Summary (PDF)](docs/executive_summary.pdf)
 
-- `docs/Dashboard.pdf` → One-page export of the Excel dashboard  
-- `docs/executive_summary.pdf` → Key insights & recommendations  
-- `screenshots/` → Preview images of charts & KPIs  
-  - `signups_trend.png`  
-  - `deposit_by_channel.png`  
-  - `bonus_vs_deposit.png`  
-  - `deposit_per_player.png`  
+Preview Charts
+![Signups Trend](docs/screenshots/signups_trend.png)
+![Deposit by Channel](docs/screenshots/deposit_by_channel.png)
+![Bonus vs Deposit](docs/screenshots/bonus_vs_deposit.png)
+![Deposit per Player](docs/screenshots/deposit_per_player.png)
 
 
 KPIs Covered
