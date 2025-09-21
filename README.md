@@ -10,15 +10,14 @@ Due to GitHub’s 100 MB file limit, the Excel file is hosted externally:
 
 
 Project Contents
-- [Dashboard (PDF)](docs/dashboard.pdf)
-- [Executive Summary (PDF)](docs/executive_summary.pdf)
+- [Dashboard (PDF)](https://raw.githubusercontent.com/CMVaishnav/player-analytics-dashboard/main/docs/dashboard.pdf)
+- [Executive Summary (PDF)](https://raw.githubusercontent.com/CMVaishnav/player-analytics-dashboard/main/docs/executive_summary.pdf)
 
 Preview Charts
-![Signups Trend](docs/screenshots/signups_trend.png)
-![Deposit by Channel](docs/screenshots/deposit_by_channel.png)
-![Bonus vs Deposit](docs/screenshots/bonus_vs_deposit.png)
-![Deposit per Player](docs/screenshots/deposit_per_player.png)
-
+![Signups Trend](https://raw.githubusercontent.com/CMVaishnav/player-analytics-dashboard/main/docs/screenshots/signups_trend.png)
+![Deposit by Channel](https://raw.githubusercontent.com/CMVaishnav/player-analytics-dashboard/main/docs/screenshots/deposit_by_channel.png)
+![Bonus vs Deposit](https://raw.githubusercontent.com/CMVaishnav/player-analytics-dashboard/main/docs/screenshots/bonus_vs_deposit.png)
+![Deposit per Player](https://raw.githubusercontent.com/CMVaishnav/player-analytics-dashboard/main/docs/screenshots/deposit_per_player.png)
 
 KPIs Covered
 
