@@ -18,17 +18,19 @@ One-page PDFs
 Preview Charts (inline)
 These images are stored in this repo and render directly in the README.
 
-1) Signups Trend  
+### Signups Trend
 ![Signups Trend](docs/screenshots/signups_trend.png)
 
-2) Deposit by Channel  
+### Deposit by Channel
 ![Deposit by Channel](docs/screenshots/deposit_by_channel.png)
 
-3) Bonus vs Deposit  
+### Bonus vs Deposit
 ![Bonus vs Deposit](docs/screenshots/bonus_vs_deposit.png)
 
-4) Deposit per Player  
+### Deposit per Player
 ![Deposit per Player](docs/screenshots/deposit_per_player.png)
+
+
 
 
 
