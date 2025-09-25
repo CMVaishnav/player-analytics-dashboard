@@ -1,9 +1,5 @@
 Player Analytics Dashboard (Excel)
 
-![Excel](https://img.shields.io/badge/Excel-Dashboard-217346?logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-Visualization-F2C811?logo=power-bi&logoColor=black)
-![Analytics](https://img.shields.io/badge/Business-Analytics-blue)
-
 This project analyzes player acquisition, deposits, and promo efficiency using Excel dashboards.  
 It demonstrates handling large raw data (117 MB Excel), building interactive reports, and delivering business insights for growth & ROI.
 
