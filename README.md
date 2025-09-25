@@ -1,7 +1,7 @@
 Player Analytics Dashboard (Excel)
 
-This project analyzes **player acquisition, deposits, and promo efficiency** using Excel dashboards.  
-It demonstrates handling **large raw data (117 MB Excel)**, building **interactive reports**, and delivering **business insights for growth & ROI
+This project analyzes Player acquisition, deposits, and promo efficiency  using Excel dashboards.  
+It demonstrates handling **large raw data (117 MB Excel), building **interactive reports**, and delivering **business insights for growth & ROI
 
 
 Full Excel Dashboard (117 MB)
@@ -11,25 +11,21 @@ GitHub limits files to 100 MB, so the full workbook is hosted externally:
 
 
 
-### One-page PDFs
-- [Dashboard (PDF)](docs/dashboard.pdf)  
-- [Executive Summary (PDF)](docs/executive_summary.pdf)
+Downloads
+[Full Excel Dashboard (117 MB)](https://your-external-link.com)
+ (GitHub won’t allow files >100 MB, so the Excel file is hosted externally)
 
----
+[Dashboard (PDF)](Dashboard.pdf)** – single-page export of the Excel dashboard  
+[Executive Summary (PDF)](Executive_Summary.pdf)** – key insights & recommendations  
 
-### Preview Charts
 
-#### Signups Trend
-![Signups Trend](docs/screenshots/signups_trend.png)
 
-#### Deposit by Channel
-![Deposit by Channel](docs/screenshots/deposit_by_channel.png)
+Preview Charts
 
-#### Bonus vs Deposit
-![Bonus vs Deposit](docs/screenshots/bonus_vs_deposit.png)
-
-#### Deposit per Player
-![Deposit per Player](docs/screenshots/deposit_per_player.png)
+![Signups Trend](signups_trend.png)  
+![Deposit by Channel](deposit_by_channel.png)  
+![Bonus vs Deposit](bonus_vs_deposit.png)  
+![Deposit per Player](deposit_per_player.png)  
 
 
 
