@@ -22,7 +22,7 @@ Key Dashboards & KPIs
 
 
 Downloads
-- [Full Excel Dashboard (117 MB)](https://your-external-link.com)
+- [Download the Excel Dashboard](https://docs.google.com/spreadsheets/d/1SG-RTDawKNhwa_03xXDaftHMwp4a8PVl/edit?usp=sharing&ouid=104955707086052119675&rtpof=true&sd=true)**  
   (GitHub won’t allow files >100 MB, so the Excel file is hosted externally)
 
 - [Dashboard (PDF)](Dashboard.pdf)– single-page export of the Excel dashboard  
@@ -30,10 +30,17 @@ Downloads
 
 
 Preview Charts
- [Signups Trend](signups_trend.png)  
- [Deposit by Channel](deposit_by_channel.png)  
- [Bonus vs Deposit](bonus_vs_deposit.png)  
- [Deposit per Player](deposit_per_player.png)  
+ Signup Trend
+ [Signup Trend](signup_trend.png)
+
+ Deposit by Channel
+ [Deposit by Channel](deposit_by_channel.png)
+
+ Bonus vs Deposit
+ [Bonus vs Deposit](bonus_vs_deposit.png)
+
+ Deposit per Player
+ [Deposit per Player](deposit_per_player.png)
 
 
 
