@@ -1,7 +1,25 @@
 Player Analytics Dashboard (Excel)
 
-This project analyzes player acquisition, deposits, and promo efficiency using Excel dashboards.  
-It demonstrates handling large raw data (117 MB Excel), building interactive reports, and delivering business insights for growth & ROI.
+
+Overview
+ This project analyzes player acquisition, deposits, and promotion efficiency using Excel dashboards.
+ It demonstrates how to handle a large raw dataset (117 MB Excel), apply cleaning & modeling, and build interactive reports that deliver business insights for growth & ROI.
+
+
+Files in this Repository
+ Dashboard.xlsx → Full Excel dashboard (117 MB, not stored here due to GitHub’s 100 MB limit).
+ Dashboard.pdf → Single-page export of the Excel dashboard.
+ Executive_Summary.pdf → Key insights & recommendations.
+ Screenshots → Inline charts for quick preview.
+
+
+Key Dashboards & KPIs
+ Signups Trend – player acquisition growth analysis.
+ First Deposit by Channel – identify efficient acquisition sources.
+ Average First Bet – segmented by gender.
+ Bonus Cost vs Deposit – efficiency of promotions.
+ Deposit per Player – profitability & quality indicator.
+
 
 Downloads
 - [Full Excel Dashboard (117 MB)](https://your-external-link.com)
@@ -12,11 +30,10 @@ Downloads
 
 
 Preview Charts
-
-[Signups Trend](signups_trend.png)  
-[Deposit by Channel](deposit_by_channel.png)  
-[Bonus vs Deposit](bonus_vs_deposit.png)  
-[Deposit per Player](deposit_per_player.png)  
+ [Signups Trend](signups_trend.png)  
+ [Deposit by Channel](deposit_by_channel.png)  
+ [Bonus vs Deposit](bonus_vs_deposit.png)  
+ [Deposit per Player](deposit_per_player.png)  
 
 
 
