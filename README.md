@@ -1,56 +1,75 @@
-Player Analytics Dashboard
+Player Analytics Dashboard (Excel)
 
 This project analyzes **player acquisition, deposits, and promo efficiency** using Excel dashboards.  
-It demonstrates handling **large raw data (117 MB Excel)**, building **interactive reports**, and delivering **business insights for growth & ROI**.
+It demonstrates handling **large raw data (117 MB Excel)**, building **interactive reports**, and delivering **business insights for growth & ROI
+
 
 Full Excel Dashboard (117 MB)
+GitHub limits files to 100 MB, so the full workbook is hosted externally:  
+[Download the Excel Dashboard](https://docs.google.com/spreadsheets/d/1SG-RTDawKNhwa_03xXDaftHMwp4a8PVl/edit?usp=sharing)**
 
-Due to GitHub’s 100 MB file limit, the Excel file is hosted externally:  
- [Download the Excel Dashboard](https://docs.google.com/spreadsheets/d/1SG-RTDawKNhwa_03xXDaftHMwp4a8PVl/edit?usp=sharing)
 
 
-Project Contents
-[Dashboard (PDF)](https://github.com/CMVaishnav/player-analytics-dashboard/raw/main/docs/dashboard.pdf)
-[Executive Summary (PDF)](https://github.com/CMVaishnav/player-analytics-dashboard/raw/main/docs/executive_summary.pdf)
+One-page PDFs
+[Dashboard (PDF)](docs/dashboard.pdf)** – single-page export of the Excel dashboard  
+[Executive Summary (PDF)](docs/executive_summary.pdf)** – key insights & recommendations  
 
-Preview Charts
-[Signups Trend](https://github.com/CMVaishnav/player-analytics-dashboard/blob/main/docs/screenshots/signups_trend.png?raw=1)
-[Deposit by Channel](https://github.com/CMVaishnav/player-analytics-dashboard/blob/main/docs/screenshots/deposit_by_channel.png?raw=1)
-[Bonus vs Deposit](https://github.com/CMVaishnav/player-analytics-dashboard/blob/main/docs/screenshots/bonus_vs_deposit.png?raw=1)
-[Deposit per Player](https://github.com/CMVaishnav/player-analytics-dashboard/blob/main/docs/screenshots/deposit_per_player.png?raw=1)
+
+Preview Charts (inline)
+These images are stored in this repo and render directly in the README.
+
+1) Signups Trend  
+![Signups Trend](docs/screenshots/signups_trend.png)
+
+2) Deposit by Channel  
+![Deposit by Channel](docs/screenshots/deposit_by_channel.png)
+
+3) Bonus vs Deposit  
+![Bonus vs Deposit](docs/screenshots/bonus_vs_deposit.png)
+
+4) Deposit per Player  
+![Deposit per Player](docs/screenshots/deposit_per_player.png)
+
 
 
 KPIs Covered
-
 1. Monthly New Signups (trend analysis)  
 2. First Deposit by Acquisition Channel  
 3. Average First Bet (by gender)  
 4. Bonus Cost vs Deposit (by product)  
-5. Deposit per Player – key profitability metric  
-
-Key Insights
-
-- Signups** peaked in early months, then declined steadily.  
-- NA & PPC channels bring the highest deposits.  
-- Female players show slightly higher first-bet average.  
-- SportsBook promos are efficient (deposits > bonus).  
-- eGaming promos are inefficient (bonus > deposits).  
+5. Deposit per Player – profitability/quality indicator  
 
 
-Recommendations
 
-- Reallocate promo budget from **eGaming → SportsBook**.  
-- Double down on **PPC/NA acquisition channels**.  
-- Pilot **female-focused onboarding** (creatives + incentives).  
-- Track KPIs weekly for faster feedback loops.  
+Key Insights (examples)
+- Signups peaked early, then declined steadily.  
+- NA & PPC channels bring the largest deposits.  
+- Female players’ average first bet is slightly higher.  
+- SportsBook promos look efficient (deposits ≥ bonus).  
+- eGaming promos** look inefficient (bonus > deposits).  
 
 
-Built With
 
-- Excel (PivotTables, Slicers, Conditional Formatting)
-- Large-scale dataset (117 MB) handled & cleaned in Excel  
-- Visual storytelling with charts + export to PDFs/screenshots  
+ Built With
+- Excel (Power Query, PivotTables, Slicers, Conditional Formatting)  
+- Cleaned & modeled a **large dataset (117 MB)**  
+- Visual storytelling with chart exports (PDFs + screenshots)  
 
+
+
+Repository Structure
+
+player-analytics-dashboard/
+├─ docs/
+│ ├─ dashboard.pdf
+│ ├─ executive_summary.pdf
+│ └─ screenshots/
+│ ├─ signups_trend.png
+│ ├─ deposit_by_channel.png
+│ ├─ bonus_vs_deposit.png
+│ └─ deposit_per_player.png
+├─ .gitignore
+└─ README.md
 
 Contact
 
