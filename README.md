@@ -5,32 +5,31 @@ It demonstrates handling **large raw data (117 MB Excel)**, building **interacti
 
 
 Full Excel Dashboard (117 MB)
-GitHub limits files to 100 MB, so the full workbook is hosted externally:  
-[Download the Excel Dashboard](https://docs.google.com/spreadsheets/d/1SG-RTDawKNhwa_03xXDaftHMwp4a8PVl/edit?usp=sharing)**
+GitHub limits files to 100 MB, so the full workbook is hosted externally: 
+
+[Download the Excel Dashboard](https://docs.google.com/spreadsheets/d/1SG-RTDawKNhwa_03xXDaftHMwp4a8PjV/edit?usp=sharing)
 
 
 
-One-page PDFs
-[Dashboard (PDF)](docs/dashboard.pdf)** – single-page export of the Excel dashboard  
-[Executive Summary (PDF)](docs/executive_summary.pdf)** – key insights & recommendations  
+### One-page PDFs
+- [Dashboard (PDF)](docs/dashboard.pdf)  
+- [Executive Summary (PDF)](docs/executive_summary.pdf)
 
+---
 
-Preview Charts (inline)
-These images are stored in this repo and render directly in the README.
+### Preview Charts
 
-### Signups Trend
+#### Signups Trend
 ![Signups Trend](docs/screenshots/signups_trend.png)
 
-### Deposit by Channel
+#### Deposit by Channel
 ![Deposit by Channel](docs/screenshots/deposit_by_channel.png)
 
-### Bonus vs Deposit
+#### Bonus vs Deposit
 ![Bonus vs Deposit](docs/screenshots/bonus_vs_deposit.png)
 
-### Deposit per Player
+#### Deposit per Player
 ![Deposit per Player](docs/screenshots/deposit_per_player.png)
-
-
 
 
 
