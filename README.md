@@ -22,7 +22,7 @@ Key Dashboards & KPIs
 
 
 Downloads
-- [Download the Excel Dashboard](https://docs.google.com/spreadsheets/d/1SG-RTDawKNhwa_03xXDaftHMwp4a8PVl/edit?usp=sharing&ouid=104955707086052119675&rtpof=true&sd=true)**  
+- [Download the Excel Dashboard](https://docs.google.com/spreadsheets/d/1SG-RTDawKNhwa_03xXDaftHMwp4a8PVl/edit?usp=drive_link&ouid=104955707086052119675&rtpof=true&sd=true)
   (GitHub won’t allow files >100 MB, so the Excel file is hosted externally)
 
 - [Dashboard (PDF)](Dashboard.pdf)– single-page export of the Excel dashboard  
